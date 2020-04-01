@@ -1,0 +1,5 @@
+name: UltraHardcore
+main: com.gmail.filoghost.ultrahardcore.UltraHardcore
+version: 1.0
+
+softdepend: [WildCommons, WildChat]
